@@ -1,0 +1,2000 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"func\tfunc {...} ʂ"
+			],
+			[
+				"Status",
+				"StatusUnauthorized\t Ɩ"
+			],
+			[
+				"forma",
+				"formationId"
+			],
+			[
+				"SendE",
+				"SendEvalMail\t ƒ"
+			],
+			[
+				"certi",
+				"certifiedmails\t(post_data.go)"
+			],
+			[
+				"Me",
+				"Message"
+			],
+			[
+				"formationid",
+				"formationid"
+			],
+			[
+				"formationi",
+				"formationid"
+			],
+			[
+				"comment",
+				"comment_formation"
+			],
+			[
+				"Exec",
+				"ExecQueryRows\t(data.go)"
+			],
+			[
+				"global",
+				"globalrating\t(post_data.go)"
+			],
+			[
+				"GetSta",
+				"GetUserInfoWithData"
+			],
+			[
+				"event",
+				"eventButtons"
+			],
+			[
+				"renderg",
+				"renderGroupsCalendarEdit\t(render.js)"
+			],
+			[
+				"envo",
+				"eventsObj"
+			],
+			[
+				"curre",
+				"currentDate"
+			],
+			[
+				"events",
+				"eventsObj"
+			],
+			[
+				"times",
+				"timesSelected"
+			],
+			[
+				"s",
+				"String\t Ɩ"
+			],
+			[
+				"Mail",
+				"MailGroup"
+			],
+			[
+				"query",
+				"queryOptions"
+			],
+			[
+				"Sc",
+				"ScheduleFormationid"
+			],
+			[
+				"Ma",
+				"Mails"
+			],
+			[
+				"for",
+				"formation"
+			],
+			[
+				"parsem",
+				"parseMails\t[]string ƒ"
+			],
+			[
+				"Ine",
+				"InsertRow\terr error ƒ"
+			],
+			[
+				"formi",
+				"formationId\tstring ν"
+			],
+			[
+				"renderMa",
+				"renderMailItems"
+			],
+			[
+				"Set",
+				"SetBool\t ƒ"
+			],
+			[
+				"Pr",
+				"Premium"
+			],
+			[
+				"Prem",
+				"Premium\tbool ν"
+			],
+			[
+				"marsh",
+				"marshalledSuccess\tresult []byte ƒ"
+			],
+			[
+				"Par",
+				"ParseForm\t(get_data.go)"
+			],
+			[
+				"Contr",
+				"Controller\tstruct ʈ"
+			],
+			[
+				"pac",
+				"package controller\t ʂ"
+			],
+			[
+				"calen",
+				"calendar-select-formation\t(dashboard.html)"
+			],
+			[
+				"ini",
+				"initCalendar\t(calendar.js)"
+			],
+			[
+				"item",
+				"item-calendar"
+			],
+			[
+				"statf",
+				"StatusFound\t Ɩ"
+			],
+			[
+				"In",
+				"Interface\ti interface{} ƒ"
+			],
+			[
+				"float6",
+				"float64frombytes\tfloat64 ƒ"
+			],
+			[
+				"Res",
+				"ResponseWriter\tinterface ¡"
+			],
+			[
+				"mar",
+				"marshalledSuccess"
+			],
+			[
+				"Pare",
+				"ParentId\tstring ν"
+			],
+			[
+				"For",
+				"Formation\tstruct ʈ"
+			],
+			[
+				"Formation",
+				"Formation\tmodels.Formation ν"
+			],
+			[
+				"DBC",
+				"DBCountable\tmodels.DBCountable ν"
+			],
+			[
+				"Form",
+				"FormationModel\tstruct ʈ"
+			],
+			[
+				"Stat",
+				"StatusFound\t Ɩ"
+			],
+			[
+				"userin",
+				"userInfoData\tmodels.UserInfoWithData ν"
+			],
+			[
+				"Upda",
+				"UpdateRow\t(post_data.go)"
+			],
+			[
+				"Or",
+				"OrganismModel\tstruct ʈ"
+			],
+			[
+				"av",
+				"avgRating\tinterface{} ν"
+			],
+			[
+				"eva",
+				"evaluationschedulerating"
+			],
+			[
+				"sub",
+				"submitEval"
+			],
+			[
+				"func",
+				"function\t(render.js)"
+			],
+			[
+				"JSONC",
+				"JSONContentAVGRatingForm\tstruct ʈ"
+			],
+			[
+				"M",
+				"Message"
+			],
+			[
+				"Show",
+				"ShowHideAndScroll\t(url.js)"
+			],
+			[
+				"json",
+				"json\t package ρ"
+			],
+			[
+				"err",
+				"err\t ν"
+			],
+			[
+				"Av",
+				"AverageRating\t(models.go)"
+			],
+			[
+				"reflect",
+				"reflect\t package ρ"
+			],
+			[
+				"psql",
+				"psql\t package ρ"
+			],
+			[
+				"Se",
+				"SerializeSQL\toutput string ƒ"
+			],
+			[
+				"answer",
+				"answer_detail\t(post_data.go)"
+			],
+			[
+				"An",
+				"AnswerDetail"
+			],
+			[
+				"ans",
+				"answer_detail\t(post_data.go)"
+			],
+			[
+				"Answe",
+				"AnswerDetailId\t(models.go)"
+			],
+			[
+				"an",
+				"answer_detail"
+			],
+			[
+				"FormationI",
+				"FormationId\t(models.go)"
+			],
+			[
+				"key",
+				"keyToCheck\t(get_data.go)"
+			],
+			[
+				"uid",
+				"uid\t package ρ"
+			],
+			[
+				"Eva",
+				"EvalForma"
+			],
+			[
+				"spew",
+				"spew\t package ρ"
+			],
+			[
+				"Formt",
+				"FormToStruct"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"instruc",
+				"instructor-interaction"
+			],
+			[
+				"inter",
+				"interaction"
+			],
+			[
+				"acc",
+				"accessibilityrating\t(render.js)"
+			],
+			[
+				"fmt",
+				"fmt.Println\t(post_data.go)"
+			],
+			[
+				"adapt",
+				"adaptation"
+			],
+			[
+				"EV",
+				"EVAL_KEY\t(conf.go)"
+			],
+			[
+				"tou",
+				"toUpdate\tmap[string]string ν"
+			],
+			[
+				"Sende",
+				"SendEvalMail\t ƒ"
+			],
+			[
+				"CPA",
+				"CPAPostModel\tstruct ʈ"
+			],
+			[
+				"Conver",
+				"Converter\tfunc(string) string ʈ"
+			],
+			[
+				"Formatvo",
+				"FormationVoteUser\tmodels.FormationVoteUser ν"
+			],
+			[
+				"don",
+				"downvote\t(models.go)"
+			],
+			[
+				"formation",
+				"formation_vote_user"
+			],
+			[
+				"commentID",
+				"commentId\tstring ν"
+			],
+			[
+				"Comm",
+				"CommentVotes"
+			],
+			[
+				"Alread",
+				"AlreadyVoted\t(models.go)"
+			],
+			[
+				"Parse",
+				"Parse\ttime.Time, error ƒ"
+			],
+			[
+				"Rowtos",
+				"RowsToStructContainer\t ƒ"
+			],
+			[
+				"IsC",
+				"IsContainerStructSQL\tbool ƒ"
+			],
+			[
+				"No",
+				"Now\ttime.Time ƒ"
+			],
+			[
+				"Conta",
+				"ContainerTypes"
+			],
+			[
+				"ty",
+				"TypeOf\treflect.Type ƒ"
+			],
+			[
+				"Ty",
+				"Type\tinterface ¡"
+			],
+			[
+				"Typ",
+				"TypeOf\treflect.Type ƒ"
+			],
+			[
+				"T",
+				"Time\t(models.go)"
+			],
+			[
+				"Tim",
+				"Time\tstruct ʈ"
+			],
+			[
+				"import",
+				"import\timport (...) ʂ"
+			],
+			[
+				"user",
+				"userInfoData\tmodels.UserInfoWithData ν"
+			],
+			[
+				"Org",
+				"OrganismOwner"
+			],
+			[
+				"trim",
+				"TrimRight\tstring ƒ"
+			],
+			[
+				"Com",
+				"CommentFormationVoteUser\tstruct ʈ"
+			],
+			[
+				"Orga",
+				"OrganismVoteUser\tstruct ʈ"
+			],
+			[
+				"Comme",
+				"CommentFormationModel"
+			],
+			[
+				"cmd",
+				"cmd\tstring ν"
+			],
+			[
+				"GetUserInfo",
+				"GetUserInfoWithData\t(get_data.go)"
+			],
+			[
+				"exte",
+				"extérieurs\t(criteres_elag.txt)"
+			],
+			[
+				"image",
+				"image-editor"
+			],
+			[
+				"renderTi",
+				"renderTitleRole"
+			],
+			[
+				"int",
+				"int64"
+			],
+			[
+				"valto",
+				"valToFloat64\tres float64 ƒ"
+			],
+			[
+				"fl",
+				"Float32\t Ɩ"
+			],
+			[
+				"Flo",
+				"Float64\t Ɩ"
+			],
+			[
+				"JSON",
+				"JSONData"
+			],
+			[
+				"pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"Up",
+				"UpdateRow\t(insert.go)"
+			],
+			[
+				"New",
+				"NewReplacer\t*strings.Replacer ƒ"
+			],
+			[
+				"Seriali",
+				"SerializeFilterArray\tstring ƒ"
+			],
+			[
+				"keytoc",
+				"keyToCheck\tstring ν"
+			],
+			[
+				"Ke",
+				"KeyValidation"
+			],
+			[
+				"Valid",
+				"ValidateEmail\t(init.go)"
+			],
+			[
+				"ttpl",
+				"ttpl\t package ρ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.go",
+			"settings":
+			{
+				"buffer_size": 1274,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Storage/cache/hdezier/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 14649,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hdezier/code/go/src/github.com/go-server/util/scrap_my_intercarif/main.go",
+			"settings":
+			{
+				"buffer_size": 25687,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "gos",
+		"selected_items":
+		[
+			[
+				"gos",
+				"GoSublime: Show errors"
+			],
+			[
+				"gosub",
+				"GoSublime: Activate 9o"
+			],
+			[
+				"extrac",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"extr",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"kac in",
+				"Package Control: Install Package"
+			],
+			[
+				"red",
+				"Text Pastry: Reduce selection"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"ST: Settings – User"
+			],
+			[
+				"pre us",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"jsonin",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"extra",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pref us",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"pref key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pre key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"j",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"key us",
+				"Preferences: SublimeLinter Key Bindings – User"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"pack i n",
+				"Package Control: Install Package"
+			],
+			[
+				"extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pref u",
+				"Preferences: Settings - User"
+			],
+			[
+				"pref set",
+				"Preferences: Settings - User"
+			],
+			[
+				"key se",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"eas",
+				"EasyClangComplete: Settings - User"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"key u",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"pack ",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"pre ",
+				"Preferences: Settings - User"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"prefe",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"clangc",
+				"Preferences: ClangComplete Settings – User"
+			],
+			[
+				"",
+				"42 : Add a header"
+			],
+			[
+				"clagcomp",
+				"Preferences: ClangComplete Settings – User"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"pack chann",
+				"Package Control: Add Channel"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"prefse",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"keybn",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"prefre",
+				"Preferences: Settings - User"
+			],
+			[
+				"d def",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"warn",
+				"SublimeLinter: Don't Make Warnings Passive"
+			],
+			[
+				"warnin",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"mark",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"next",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Cpp-print"
+			],
+			[
+				"pac rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac kin",
+				"Package Control: Install Package"
+			],
+			[
+				"parem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remopa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"paki",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pak ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 422.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hdezier/code/go/src/github.com/fb_meuh"
+	],
+	"file_history":
+	[
+		"/Volumes/Storage/cache/hdezier/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/hdezier/code/go/src/github.com/go-server/main.go",
+		"/Volumes/Storage/cache/hdezier/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Volumes/Storage/cache/hdezier/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/nous.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/models/models.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/controller/login.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/server/init.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/formation-select.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/err-connexion.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/url.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/render.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/controller/init.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/controller/calendar.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/controller/post_data.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/list.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/dashboard.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/controller/get_data.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/psql/data.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/psql/insert.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/models/SQLSerializer.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/css/common.css",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/calendar.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/charts.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/psql/common.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/controller/controller_test.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/cache/vars.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/common/header.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/premium.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/home.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/organism.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/common/scripts.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/formeval.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/subscribe.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/moment.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/new-comment-formation.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/comments.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/formation.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/eval.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/criteria.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/login.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/validation.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/.well-known/acme-challenge/_y4RXUZ7JNtiyPcZor4PovZM6WR2Q7qgUWWGvxuPFec",
+		"/Users/hdezier/code/go/src/github.com/go-server/.well-known/acme-challenge/DZfDPKzSdBob3XfRke9LWcoHs211ectRXxhI-Hhdncw",
+		"/Users/hdezier/code/go/src/github.com/go-server/conf/conf.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/commentTable/main.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/go-server",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/commentTable/commentTable",
+		"/Users/hdezier/code/go/src/github.com/go-server/models/FormSerializer.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/all-organisms.html",
+		"/Volumes/Storage/cache/hdezier/Library/Application Support/Sublime text 3/Packages/User/SQLTools.sublime-settings",
+		"/Volumes/Storage/cache/hdezier/Library/Application Support/Sublime text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/components/container.css",
+		"/Users/hdezier/code/go/src/github.com/go-server/psql/create.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/scrap_my_intercarif/main.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/controller/renderer.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/cpa.sublime-project",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/new-comment-organism.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/json_to_sql/main.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/common/footer.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/ideas/criteres_elag.txt",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/img/Nfheader.png",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/log_organism_fake.json",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/log_formation_fake.json",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/components/dropdown.min.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/all-formation.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/ideas/criteres.txt",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/components/comment.css",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/preload.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/apicpa/common.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/go-server_test.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/css/home.css",
+		"/Users/hdezier/code/go/src/github.com/go-server/controller/test_controller.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/scrap_my_intercarif/log_formation_idf.json",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/scrap_my_intercarif/log_organism.json",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/list-organisms.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/search.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/scrap_my_intercarif/log_formation.json",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/list-formations.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/new-comment.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/scrap_my_intercarif/log_organism_idf.json",
+		"/Users/hdezier/code/go/src/github.com/go-server/vendor/vendor.json",
+		"/Users/hdezier/code/go/src/github.com/go-server/README.md",
+		"/Users/hdezier/code/go/src/github.com/go-server/apicpa/data.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/components/button.css",
+		"/Users/hdezier/code/go/src/github.com/go-server/apicpa/post.go",
+		"/Volumes/Storage/cache/hdezier/Library/Application Support/Sublime text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hdezier/code/go/src/github.com/go-server/psql/psql_test.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/apifc/init.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/apicpa/auth.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/controller/ggl_login.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/ggl_login/auth.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/all-establishment.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/templates/establishment.html",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/onReady.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/static/js/semantic.min.js",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/scrap_my_intercarif/scrap_my_intercarif",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/scrap_my_intercarif/log0.json",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/log0.txt",
+		"/Users/hdezier/code/go/src/github.com/go-server/models/data_models.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/.gitignore",
+		"/Users/hdezier/code/go/src/github.com/go-server/dbheroku/common.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/dbheroku/data.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/dbheroku/insert.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/sql/create_comment_establishment_vote_user.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/sql/create_comment_formation_vote_user.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/sql/create_formation_vote_user.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/sql/create_establishment_vote_user.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/sql/create_comment_establishment.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/csv_to_psql/main.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/sql/create_comment_formation.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/test/fr-esr-principaux-etablissements-enseignement-superieur.csv",
+		"/Volumes/Storage/cache/hdezier/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hdezier/code/go/src/github.com/go-server/Godeps/Godeps.json",
+		"/Users/hdezier/code/go/src/github.com/go-server/dbheroku/json.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/sql/create_formation.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/dbheroku/insert_establishments.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/csv_to_baas/main.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/sql/create_establishment.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/baas_to_psql/main.go",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/baas_to_psql/sql/create_establishments.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/baas_to_psql/sql/create_comments_formations.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/baas_to_psql/sql/drop_establishments.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/baas_to_psql/sql/test_search.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/baas_to_psql/sql/create_formations.sql",
+		"/Users/hdezier/code/go/src/github.com/go-server/util/baas_to_psql/sql/create_comments_establishments.sql",
+		"/nfs/2013/h/hdezier/code/go/src/github.com/go-server/templates/common/header.html",
+		"/nfs/2013/h/hdezier/code/go/src/github.com/go-server/cpa.sublime-project"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 221.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open folders>, *.html",
+			"<open folders>",
+			"<open folders>, *.cpp, *.h",
+			"<open folders>, *.c, *.h",
+			"/home/leeios/code/meuh/sandbox/hdezier/tetris",
+			"/home/leeios/code/meuh/util/roolv2.0",
+			"/home/leeios/code/meuh/util/Rool/src,/home/leeios/code/meuh/util/Rool/include",
+			"/home/leeios/code/meuh/sandbox/util/Rool",
+			"/home/leeios/code/meuh/42/Scop/hdezier/src",
+			"/home/leeios/code/meuh/42/scop/hdezier/src",
+			"/home/leeios/code/meuh/42/scop/hdezier",
+			"/home/leeios/code/meuh/util/project_ruler/test",
+			"/home/leeios/taf/Moods/moods/public/js/libs/moods",
+			"/home/leeios/taf/whibo-dev/app/",
+			"/home/leeios/taf/whibo-dev/app/controllers",
+			"/home/leeios/taf/whibo-dev/app/assets/javascripts/zen/app/docViewer/review",
+			"/home/leeios/taf/Review/js/libs/etherpad-lite/node_modules/ep_etherpad-lite",
+			"/home/leeios/taf/Review/js/libs/etherpad-lite/src",
+			"/home/leeios/taf/Review/js/libs/etherpad-lite/SRC",
+			"/home/leeios/taf/Review/js/libs/etherpad-lite",
+			"/home/leeios/taf/Review",
+			"/home/leeios/taf/tmp_taf/public/js/libs/feedy",
+			"/home/leeios/taf/tmp_taf/",
+			"/home/leeios/taf/tmp_taf/public/js/libs/feedy",
+			"/home/leeios/taf/tmp_taf/public/js/libs/comApp",
+			"/home/leeios/taf/tmp_taf/model",
+			"/home/leeios/taf/tmp_taf/public/js/libs/comApp",
+			"/home/leeios/taf/tmp_taf/public/js/libs/appComments",
+			"/home/leeios/taf/tmp_taf/public/js/libs/appcomments",
+			"/home/leeios/taf/tmp_taf/public/js/libs/appcoments",
+			"/home/leeios/taf/tmp_taf/public/js/libs",
+			"/home/leeios/code/C/grimly/include,/home/leeios/code/C/grimly/src,/home/leeios/code/C/grimly/test"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\t\t",
+			"mainScrap",
+			"UpdateFormationName",
+			"StatusUnauthorized",
+			"Account is corrupted",
+			"RenderErrConnexion",
+			"StatusForbidden",
+			"RenderErrSubscribe",
+			"ctrl.RenderSubscribe(w, r, nil)",
+			"ctrl.RenderLogin(w, r, nil)",
+			"LoginUser",
+			"formationid",
+			"mailIdx",
+			"getProgIndex",
+			"SetDetailMail",
+			"showCertifMails",
+			"renderGroupsCalendar",
+			"dashboard",
+			"renderGroupsCalendar",
+			"GetMailGroup",
+			"at.id",
+			"+ id +",
+			"+ i +",
+			"+ i",
+			"i",
+			"  ",
+			"eval-detail",
+			"SetDetailEval",
+			"eval-detail",
+			"SetDetailEval",
+			"eval-detail",
+			"mail-edition",
+			"renderMailItems",
+			"GetUpdateMailFn",
+			"0, 0],",
+			"crossClose",
+			"e",
+			"id",
+			",\n",
+			"renderGroupsCalendar",
+			"('get value')",
+			" = $('#",
+			"validSchedule",
+			"formation-selection-calendar",
+			"formation",
+			"parentid",
+			"organismid",
+			"organismowner",
+			"showFormationCalendar",
+			"renderProgrammeItem",
+			"programme",
+			"renderMailItem",
+			"string",
+			"id",
+			"progIdx",
+			"certified-mails-list",
+			"showCertifMails",
+			"field",
+			"\nfunction\tGetUpdateProgrammeFn(id, action) {\n\treturn (function (data) {\n\t\tswitch (data.source.pointer) {\n\t\tcase \"add\":\n\t\t\t$($.parseHTML(renderProgrammeItem(\n\t\t\t\t$('#edit-formation-' + id + '-programme')[0].value,\n\t\t\t\t$('#programme-edition').children().length - 1,\n\t\t\t\tid\n\t\t\t))).insertBefore(\"#last-item-programme\");\n\t\t\t$(\"#edit-formation-\"+ id +\"-programme\").val('');\n\t\t\tbreak\n\t\tcase \"edit\":\n\t\t\tbreak\n\t\tcase \"delete\":\n\t\t\t$(\"#edit-formation-\" + id + \"-programme-\" + data.source.parameter).parent().remove();\n\t\t\tvar elemsToUpdate = $(\"[id|='edit-formation-\" + id + \"-programme']\");\n\t\t\telemsToUpdate.each(function (i, obj) {\n\t\t\t\tvar elemIndex = getListIndex($(this).attr('id'));\n\t\t\t\tif (elemIndex > data.source.parameter) {\n\t\t\t\t\t$(this).parent().replaceWith(renderProgrammeItem($(this).val(), elemIndex - 1, id))\n\t\t\t\t}\n\t\t\t})\n\t\t\tbreak\n\t\t}\n\t})\n}\n",
+			"column",
+			"<div>\n \t\t\t\t\tVersion ",
+			"h3",
+			"class=\"Version",
+			"name",
+			"{{if .Premium}}",
+			"organismowner",
+			"UserInfo",
+			"validate",
+			"●",
+			"-name",
+			"data.id",
+			".each(function\t(i, elem){",
+			".children()",
+			"$.each",
+			"AddNewFormation",
+			"$header",
+			"$headers",
+			"submitEval",
+			"InsertRowUnique",
+			"div",
+			"formation-selection",
+			"$('#calendar')",
+			"  [",
+			"[",
+			"float64 `json:\"",
+			"float64",
+			"<div class=\"ui rating\" data-max-rating=\"5\" id=\"",
+			"submitEval",
+			"AVG",
+			"\t\t",
+			"fmt",
+			"DBCountable",
+			"http.Redirect",
+			"[\"sub\"]",
+			"GetUserInfo",
+			"\t\t",
+			"ExecQueryRow",
+			"ratingcriteriasrating",
+			"criteriasrating",
+			"groupsizerating",
+			"groupadaptationrating",
+			"\": int,",
+			"orgParams",
+			"ß",
+			"\": string,",
+			"program-",
+			"transparency-obj",
+			"group-",
+			"instructor-",
+			"tools-",
+			"pedago-instructor",
+			"pro-link",
+			"respect-objectives",
+			"-rating\"></div>",
+			"-rating",
+			"rating\": int,",
+			"<input type=\"text\" name",
+			"json",
+			"submitCommentFormation",
+			"res",
+			"form-list",
+			"DynamicDataCall",
+			"eval-form-list",
+			"ShowHideAndScroll",
+			"db=",
+			"Rating",
+			"cache.keyToCheck",
+			"keyToCheck"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"EvalFormation",
+			"AnswerDetail",
+			"BAD_FORMAT_CSV_INT",
+			"t_error",
+			"nullptr",
+			"userInput",
+			"scop",
+			"suggestComment",
+			"preValid",
+			"addComment",
+			"id",
+			"r.Seed.",
+			"ViewFile",
+			"grimly"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1104,
+								1104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Volumes/Storage/cache/hdezier/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/hdezier/code/go/src/github.com/go-server/util/scrap_my_intercarif/main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2351,
+								2351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/hdezier/code/go/src/github.com/fb_meuh":
+	{
+		"height": 132.0
+	},
+	"output.clipboard_manager":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fb_meuh.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"main.go"
+			],
+			[
+				"render",
+				"static/js/render.js"
+			],
+			[
+				"nous",
+				"templates/nous.html"
+			],
+			[
+				"models",
+				"models/models.go"
+			],
+			[
+				"forma",
+				"static/js/formation-select.js"
+			],
+			[
+				"getda",
+				"controller/get_data.go"
+			],
+			[
+				"var",
+				"cache/vars.go"
+			],
+			[
+				"rendere",
+				"controller/renderer.go"
+			],
+			[
+				"serini",
+				"server/init.go"
+			],
+			[
+				"login",
+				"controller/login.go"
+			],
+			[
+				"model",
+				"models/models.go"
+			],
+			[
+				"postda",
+				"controller/post_data.go"
+			],
+			[
+				"url",
+				"static/js/url.js"
+			],
+			[
+				"renderjs",
+				"static/js/render.js"
+			],
+			[
+				"dashb",
+				"templates/dashboard.html"
+			],
+			[
+				"conini",
+				"controller/init.go"
+			],
+			[
+				"mode",
+				"models/models.go"
+			],
+			[
+				"postd",
+				"controller/post_data.go"
+			],
+			[
+				"commo",
+				"psql/common.go"
+			],
+			[
+				"data",
+				"psql/data.go"
+			],
+			[
+				"ctge",
+				"controller/controller_test.go"
+			],
+			[
+				"serin",
+				"server/init.go"
+			],
+			[
+				"chart",
+				"static/js/charts.js"
+			],
+			[
+				"comcs",
+				"static/css/common.css"
+			],
+			[
+				"calnjs",
+				"static/js/calendar.js"
+			],
+			[
+				"calj",
+				"static/js/calendar.js"
+			],
+			[
+				"cale",
+				"controller/calendar.go"
+			],
+			[
+				"seriali",
+				"models/SQLSerializer.go"
+			],
+			[
+				"inser",
+				"psql/insert.go"
+			],
+			[
+				"seria",
+				"models/SQLSerializer.go"
+			],
+			[
+				"psqlda",
+				"psql/data.go"
+			],
+			[
+				"calen",
+				"controller/calendar.go"
+			],
+			[
+				"contrini",
+				"controller/init.go"
+			],
+			[
+				"cal",
+				"static/js/calendar.js"
+			],
+			[
+				"seraz",
+				"models/SQLSerializer.go"
+			],
+			[
+				"post",
+				"controller/post_data.go"
+			],
+			[
+				"hea",
+				"templates/common/header.html"
+			],
+			[
+				"dash",
+				"templates/dashboard.html"
+			],
+			[
+				"premi",
+				"templates/premium.html"
+			],
+			[
+				"header",
+				"templates/common/header.html"
+			],
+			[
+				"models/",
+				"models/SQLSerializer.go"
+			],
+			[
+				"psql",
+				"psql/data.go"
+			],
+			[
+				"dah",
+				"templates/dashboard.html"
+			],
+			[
+				"pos",
+				"controller/post_data.go"
+			],
+			[
+				"loging",
+				"controller/login.go"
+			],
+			[
+				"organ",
+				"templates/organism.html"
+			],
+			[
+				"psqda",
+				"psql/data.go"
+			],
+			[
+				"renderj",
+				"static/js/render.js"
+			],
+			[
+				"formas",
+				"static/js/formation-select.js"
+			],
+			[
+				"da",
+				"templates/dashboard.html"
+			],
+			[
+				"home",
+				"templates/home.html"
+			],
+			[
+				"calend",
+				"controller/calendar.go"
+			],
+			[
+				"das",
+				"templates/dashboard.html"
+			],
+			[
+				"scr",
+				"templates/common/scripts.html"
+			],
+			[
+				"calenda",
+				"static/js/calendar.js"
+			],
+			[
+				"forme",
+				"templates/formeval.html"
+			],
+			[
+				"psqlin",
+				"psql/insert.go"
+			],
+			[
+				"logingo",
+				"controller/login.go"
+			],
+			[
+				"charjs",
+				"static/js/charts.js"
+			],
+			[
+				"subs",
+				"templates/subscribe.html"
+			],
+			[
+				"contr",
+				"controller/get_data.go"
+			],
+			[
+				"contro",
+				"controller/init.go"
+			],
+			[
+				"contri",
+				"controller/init.go"
+			],
+			[
+				"calengo",
+				"controller/calendar.go"
+			],
+			[
+				"comocs",
+				"static/css/common.css"
+			],
+			[
+				"mom",
+				"static/js/moment.js"
+			],
+			[
+				"char",
+				"static/js/charts.js"
+			],
+			[
+				"foe",
+				"templates/formeval.html"
+			],
+			[
+				"logi",
+				"controller/login.go"
+			],
+			[
+				"sqls",
+				"models/SQLSerializer.go"
+			],
+			[
+				"forms",
+				"static/js/formation-select.js"
+			],
+			[
+				"logigo",
+				"controller/login.go"
+			],
+			[
+				"ins",
+				"psql/insert.go"
+			],
+			[
+				"head",
+				"templates/common/header.html"
+			],
+			[
+				"loginh",
+				"templates/login.html"
+			],
+			[
+				"valid",
+				"templates/validation.html"
+			],
+			[
+				"_y",
+				".well-known/acme-challenge/_y4RXUZ7JNtiyPcZor4PovZM6WR2Q7qgUWWGvxuPFec"
+			],
+			[
+				"well",
+				".well-known/acme-challenge/DZfDPKzSdBob3XfRke9LWcoHs211ectRXxhI-Hhdncw"
+			],
+			[
+				"comscr",
+				"templates/common/scripts.html"
+			],
+			[
+				"criter",
+				"templates/criteria.html"
+			],
+			[
+				"psqlc",
+				"psql/common.go"
+			],
+			[
+				"scrip",
+				"templates/common/scripts.html"
+			],
+			[
+				"form",
+				"templates/formation.html"
+			],
+			[
+				"newcom",
+				"templates/new-comment-formation.html"
+			],
+			[
+				"fose",
+				"static/js/formation-select.js"
+			],
+			[
+				"html",
+				"templates/comments.html"
+			],
+			[
+				"list",
+				"static/js/list.js"
+			],
+			[
+				"li",
+				"static/js/list.js"
+			],
+			[
+				"ur",
+				"static/js/url.js"
+			],
+			[
+				"lis",
+				"static/js/list.js"
+			],
+			[
+				"psq",
+				"psql/data.go"
+			],
+			[
+				"controllerini",
+				"controller/init.go"
+			],
+			[
+				"format",
+				"static/js/formation-select.js"
+			],
+			[
+				"dahsb",
+				"templates/dashboard.html"
+			],
+			[
+				"uti",
+				"util/commentTable/main.go"
+			],
+			[
+				"ini",
+				"server/init.go"
+			],
+			[
+				"comm",
+				"templates/comments.html"
+			],
+			[
+				"eval",
+				"templates/eval.html"
+			],
+			[
+				"org",
+				"templates/organism.html"
+			],
+			[
+				"formev",
+				"templates/formeval.html"
+			],
+			[
+				"conf",
+				"conf/conf.go"
+			],
+			[
+				"va",
+				"templates/validation.html"
+			],
+			[
+				"chatjs",
+				"static/js/charts.js"
+			],
+			[
+				"conin",
+				"static/components/container.css"
+			],
+			[
+				"getd",
+				"controller/get_data.go"
+			],
+			[
+				"psql/",
+				"psql/insert.go"
+			],
+			[
+				"po",
+				"controller/post_data.go"
+			],
+			[
+				"sqlser",
+				"models/SQLSerializer.go"
+			],
+			[
+				"renderer",
+				"controller/renderer.go"
+			],
+			[
+				"scramain",
+				"util/scrap_my_intercarif/main.go"
+			],
+			[
+				"util/main",
+				"util/commentTable/main.go"
+			],
+			[
+				"newcomor",
+				"templates/new-comment-organism.html"
+			],
+			[
+				"rendjs",
+				"static/js/render.js"
+			],
+			[
+				"moel",
+				"models/models.go"
+			],
+			[
+				"rende",
+				"static/js/render.js"
+			],
+			[
+				"foot",
+				"templates/common/footer.html"
+			],
+			[
+				"crri",
+				"ideas/criteres_elag.txt"
+			],
+			[
+				"serverini",
+				"server/init.go"
+			],
+			[
+				"foter",
+				"templates/common/footer.html"
+			],
+			[
+				"validah",
+				"templates/validation.html"
+			],
+			[
+				"citereel",
+				"ideas/criteres_elag.txt"
+			],
+			[
+				"logfo",
+				"util/log_formation_fake.json"
+			],
+			[
+				"loor",
+				"util/log_organism_fake.json"
+			],
+			[
+				"jsontosq",
+				"util/json_to_sql/main.go"
+			],
+			[
+				"o",
+				"templates/organism.html"
+			],
+			[
+				"urljs",
+				"static/js/url.js"
+			],
+			[
+				"sripjs",
+				"static/components/dropdown.min.js"
+			],
+			[
+				"allo",
+				"templates/all-formation.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/code/go/src/github.com/go-server/cpa.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
