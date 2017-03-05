@@ -6,7 +6,7 @@
 /*   By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/04 14:11:08 by hdezier           #+#    #+#             */
-/*   Updated: 2017/03/05 11:55:04 by hdezier          ###   ########.fr       */
+/*   Updated: 2017/03/05 12:14:46 by hdezier          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -107,8 +107,11 @@ func post_results_to_fb(w http.ResponseWriter, r *http.Request, p httprouter.Par
 	song_title := find_current_song_title(doc)
 	video_url := search_vgoogle_best_result(song_title)
 	picture_url := ``
+	source := ``
 	if strings.Contains(video_url, `youtube`) {
-		picture_url = `http://img.youtube.com/vi/` + video_url[strings.LastIndex(video_url, `=`)+1:] + `/0.jpg`
+		id_vid := video_url[strings.LastIndex(video_url, `=`)+1:]
+		picture_url = `http://img.youtube.com/vi/` + id_vid + `/0.jpg`
+		source = `http://www.youtube.com/v/` + id_vid
 		fmt.Println(picture_url)
 	}
 	fmt.Println(video_url)
@@ -133,11 +136,11 @@ func post_results_to_fb(w http.ResponseWriter, r *http.Request, p httprouter.Par
 	res, err := session.Post(`/me/feed`, fb.Params{
 		`message`: meuh_message,
 		`link`:    video_url,
-		`source`:  video_url,
+		`source`:  source,
 		`picture`: picture_url,
 	})
 	fmt.Println(res, err)
-	w.Write([]byte(`OK :)`))
+	http.Redirect(w, r, "/", http.StatusTemporaryRedirect)
 }
 
 func main() {
