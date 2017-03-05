@@ -6,7 +6,7 @@
 /*   By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/04 14:11:08 by hdezier           #+#    #+#             */
-/*   Updated: 2017/03/04 23:24:23 by hdezier          ###   ########.fr       */
+/*   Updated: 2017/03/05 11:55:04 by hdezier          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,7 +43,7 @@ func clean_song_title(title string) (clean_song_title string) {
 	return
 }
 
-func search_vgoogle_best_result(song_title string) (matches []string) {
+func search_vgoogle_best_result(song_title string) (best_match string) {
 	vggl_search_url := `https://www.google.fr/search?`
 	cleaned_song_title := clean_song_title(song_title)
 	query_params := map[string]string{
@@ -74,6 +74,7 @@ func search_vgoogle_best_result(song_title string) (matches []string) {
 			}
 		}
 	}
+	matches := []string{}
 	doc.Find(`div.g`).Each(func(i int, s *goquery.Selection) {
 		a_link := s.Find(`h3.r`).First().Children()
 		href, exists := a_link.Attr(`href`)
@@ -84,7 +85,12 @@ func search_vgoogle_best_result(song_title string) (matches []string) {
 			matches = append(matches, clean_url)
 		}
 	})
-	return
+	for i := range matches {
+		if strings.Contains(matches[i], `youtube`) {
+			return matches[i]
+		}
+	}
+	return matches[0]
 }
 
 func find_current_song_title(doc *goquery.Document) string {
@@ -99,8 +105,13 @@ func post_results_to_fb(w http.ResponseWriter, r *http.Request, p httprouter.Par
 		return
 	}
 	song_title := find_current_song_title(doc)
-	video_urls := search_vgoogle_best_result(song_title)
-	fmt.Println(video_urls)
+	video_url := search_vgoogle_best_result(song_title)
+	picture_url := ``
+	if strings.Contains(video_url, `youtube`) {
+		picture_url = `http://img.youtube.com/vi/` + video_url[strings.LastIndex(video_url, `=`)+1:] + `/0.jpg`
+		fmt.Println(picture_url)
+	}
+	fmt.Println(video_url)
 
 	r.ParseForm()
 	code := r.FormValue(`code`)
@@ -116,9 +127,14 @@ func post_results_to_fb(w http.ResponseWriter, r *http.Request, p httprouter.Par
 		HttpClient: client,
 	}
 
+	meuh_message := "#FromRadioMeuh🐮"
+
 	// Use session.
 	res, err := session.Post(`/me/feed`, fb.Params{
-		`message`: video_urls[0],
+		`message`: meuh_message,
+		`link`:    video_url,
+		`source`:  video_url,
+		`picture`: picture_url,
 	})
 	fmt.Println(res, err)
 	w.Write([]byte(`OK :)`))

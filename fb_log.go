@@ -6,7 +6,7 @@
 /*   By: hdezier <hdezier@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/03/04 19:11:27 by hdezier           #+#    #+#             */
-/*   Updated: 2017/03/04 23:20:38 by hdezier          ###   ########.fr       */
+/*   Updated: 2017/03/05 11:44:53 by hdezier          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,7 +36,7 @@ var (
 		ClientSecret: FB_PRIVATE_KEY,
 		RedirectURL:  APP_REDIRECT_URL,
 		// TODO Restrict to minimum
-		Scopes:   []string{"public_profile", "user_posts", "publish_pages", "manage_pages", "publish_actions"},
+		Scopes:   []string{"user_posts", "publish_pages", "publish_actions"},
 		Endpoint: facebook.Endpoint,
 	}
 	oauthStateString = "thisshouldberandom"
